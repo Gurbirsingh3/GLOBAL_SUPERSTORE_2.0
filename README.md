@@ -46,7 +46,7 @@ Welcome to the **Global Superstore Excel Dashboard** repository! This project co
 
 ---
 
-# 🛠️ Tools Used
+## 🛠️ Tools Used
 
 Microsoft Excel 🖥️
 
@@ -79,9 +79,14 @@ Dashboard Designing
 1. Clone this repository  
    ```bash
    git clone https://github.com/Gurbirsingh3/GLOBAL_SUPERSTORE_2.0.git
+   
+2. Open the dashboard file (.pbix / .twbx / .xlsx)
 
+3. Explore the visuals and interact with slicers and filters 🔍
 
-# 🤝 Contributing
+4. Analyze the insights and export results as needed 🧾
+
+## 🤝 Contributing
 
 Contributions are welcome!
 If you’d like to enhance visuals, add new metrics, or improve documentation:
@@ -92,7 +97,7 @@ Fork this repository 🍴
 
 - Submit a pull request 🚀
 
-# 🧑‍💻 Author
+## 🧑‍💻 Author
 
 👋 Created by Gurbir Singh
 
