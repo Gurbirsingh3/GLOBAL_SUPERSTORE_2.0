@@ -5,11 +5,9 @@
 
 ---
 
-## 🧭 Overview
+## 🧭 Project Overview
 
-Welcome to the **Global Superstore Dashboard** — an interactive and visually engaging Power BI / Tableau / Excel-based dashboard (choose your tool 🎨) that provides deep insights into global sales performance, profitability, and regional distribution.  
-
-This project helps businesses and analysts understand how different markets and product categories contribute to overall success, highlighting areas for improvement and growth 📈.  
+Welcome to the **Global Superstore Excel Dashboard** repository! This project contains an interactive Excel dashboard built using the **Global Superstore datase**t to help analyze sales, profits, and performance metrics across regions and categories.This project showcases data analysis, KPIs tracking, and insightful visualizations built entirely in **Microsoft Excel** 📈
 
 ---
 
@@ -48,17 +46,23 @@ This project helps businesses and analysts understand how different markets and 
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tools Used
 
-| Tool | Purpose |
-|------|----------|
-| 🧮 **Power BI / Tableau / Excel** | Data visualization & dashboard creation |
-| 🧹 **Power Query / Data Model** | Data cleaning & transformation |
-| 📁 **CSV / Excel Data** | Source data from Global Superstore dataset |
+Microsoft Excel 🖥️
 
----
+Pivot Tables & Charts 📊
+
+Conditional Formatting 🎨
+
+Slicers & Filters 🔄
+
+Data Cleaning & Analysis📊
+
+Dashboard Designing
+
 
 ## 📊 Metrics Included
+
 
 | Metric | Description |
 |---------|--------------|
@@ -77,16 +81,6 @@ This project helps businesses and analysts understand how different markets and 
    git clone https://github.com/yourusername/global-superstore-dashboard.git
 
 
-# 💡 Future Enhancements
-
-🧠 Add AI-driven sales forecasting
-
-📆 Include YOY (Year-over-Year) comparisons
-
-🔍 Add drill-through insights for category-level analysis
-
-🌐 Deploy interactive dashboard online
-
 # 🤝 Contributing
 
 Contributions are welcome!
@@ -104,10 +98,5 @@ Fork this repository 🍴
 
 
 📫 Let’s connect and collaborate!
-- 🔗 LinkedIn
--  GitHub
- 
-
-# 🪄 License
-
-📜 This project is licensed under the MIT License — feel free to use, modify, and share.
+- 🔗 LinkedIn - https://www.linkedin.com/in/gurbir-singh-8b5020389/
+- 🔗 GitHub - https://github.com/Gurbirsingh3
