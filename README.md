@@ -78,7 +78,7 @@ Dashboard Designing
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/global-superstore-dashboard.git
+   git clone https://github.com/Gurbirsingh3/GLOBAL_SUPERSTORE_2.0.git
 
 
 # 🤝 Contributing
